@@ -3,3 +3,5 @@ There is currently no way of getting a properly formatted spreadsheet export of 
 
 Written as Jupyter Notebook in Python 3, using Anaconda Navigator on a mac.
 Uses Beautiful Soup 4 and Selenium heavily.
+
+Be warned that some Norwegian may occur.
